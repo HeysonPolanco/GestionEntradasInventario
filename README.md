@@ -42,5 +42,3 @@ gestionentradasinventario-bpaug8f3grdcb8fk.eastus2-01.azurewebsites.net
 ## Repositorio
 https://github.com/YudelkaTorres/GestionEntradasInventario.git 
 
-## Revisión por pares
-
